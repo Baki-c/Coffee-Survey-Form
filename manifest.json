@@ -2,9 +2,9 @@
   "name": "Coffee",
   "short_name": "Coffee",
   "lang": "en",
-  "start_url": "/Customer-Satisfaction-Survey/index.html",
+  "start_url": "/coffee-survey-form/index.html",
   "scope": "/",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "portrait",
   "background_color": "#000000",
   "theme_color": "#ffffff"
