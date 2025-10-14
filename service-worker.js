@@ -1,6 +1,6 @@
 self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open("coffee-survey-cache").then((cache) => {
+    caches.open("coffee-survey-form-cache").then((cache) => {
       return cache.addAll([
         "/coffee-survey-form/",
         "/coffee-survey-form/index.html",
