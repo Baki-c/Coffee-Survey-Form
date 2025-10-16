@@ -313,7 +313,7 @@ input[type="number"] {
   width: var(--checkbox-size);
   height: var(--checkbox-size);
   margin-right: var(--spacing-xs);
-  border: 1px solid var(--color-primary);
+  border: 2px solid var(--color-primary);
   border-radius: var(--border-radius-sm);
   background-color: var(--color-accent-secondary);
   transition: background-color var(--transition-standard),
@@ -324,7 +324,7 @@ input[type="number"] {
 
 .input-checkbox:hover {
   border-color: var(--color-border-hover);
-  border: 1px;
+  border: 2px;
 }
 
 .input-checkbox:checked {
